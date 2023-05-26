@@ -1,0 +1,1 @@
+export const siteData = JSON.parse("{\"base\":\"/\",\"lang\":\"en-US\",\"title\":\"\",\"description\":\"\",\"head\":[],\"locales\":{\"/\":{\"lang\":\"en-US\",\"title\":\"DocPal\",\"description\":\"A docs demo for DocPal\"},\"/zh/\":{\"lang\":\"zh-CN\",\"title\":\"DocPal\",\"description\":\"DocPal 的文档演示\"}}}")

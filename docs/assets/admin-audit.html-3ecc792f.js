@@ -1,1 +1,0 @@
-const t=JSON.parse('{"key":"v-6280b32c","path":"/v1.1.6/admin-audit.html","title":"操作审计","lang":"en-US","frontmatter":{},"headers":[],"git":{"createdTime":null,"updatedTime":null,"contributors":[]},"readingTime":{"minutes":0.03,"words":10},"filePathRelative":"v1.1.6/admin-audit.md"}');export{t as data};

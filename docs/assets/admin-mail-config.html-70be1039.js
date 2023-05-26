@@ -1,1 +1,0 @@
-const e=JSON.parse('{"key":"v-14368280","path":"/zh/v1.1.6/admin-mail-config.html","title":"系统邮箱配置","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"createdTime":null,"updatedTime":null,"contributors":[]},"readingTime":{"minutes":0.08,"words":24},"filePathRelative":"zh/v1.1.6/admin-mail-config.md"}');export{e as data};
