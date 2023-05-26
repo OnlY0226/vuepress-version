@@ -1,0 +1,4 @@
+import{_ as a}from"./plugin-vue_export-helper-c27b6911.js";import{o as r,c as t,e,a as o}from"./app-b7cecf6a.js";const n={},i=o('<h1 id="版本功能新增" tabindex="-1"><a class="header-anchor" href="#版本功能新增" aria-hidden="true">#</a> 版本功能新增</h1><p><strong>2023-5-30</strong></p><ul><li><a href="/zh/v1.1.6/manage-doc-tree">文档管理全新交互</a></li><li><a href="/zh/v1.1.6/admin-water-mark">水印配置</a></li><li><a href="/zh/v1.1.6/admin-file-permission">权限管理全新交互</a></li></ul>',3);function l(s,m){return r(),t("div",null,[e(" # 更新日志 "),e(" __2022-12-16__ "),e(' + <a href="/zh/v1.1.6/o-admin-log-manage">日志管理</a> '),e(' + <a href="/zh/v1.1.6/o-admin-user#ldap模式">用户Ldap模式</a> '),i,e(` <Home />
+<script setup lang="ts">
+import Home from '@theme/log.vue'
+<\/script> `)])}const h=a(n,[["render",l],["__file","update-log.html.vue"]]);export{h as default};
